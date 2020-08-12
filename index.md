@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
     <head>
         <title>Ethereum Capital</title>
@@ -10,6 +9,11 @@
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <style>
+        .markdown-body img{
+        background-color: transparent!important;
+}
+        </style>
     </head>
     <body>
         <div class="website-wrapper">
