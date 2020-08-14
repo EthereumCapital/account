@@ -44,7 +44,7 @@ border-top:0;
                         </a>
                         <ul class="navbar-nav">
                             <li class="nav-item current-menu-item">
-                                <a class="nav-link" href="#">HOW IT WORKS</a>
+                                <a class="nav-link" href="https://ethereumcapital.github.io/account/">HOW IT WORKS</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Account</a>
@@ -185,7 +185,7 @@ border-top:0;
                                 <h5 class="widget-title">Quick Links</h5>
                                 <div>
                                     <ul class="menu">
-                                        <li class="current_page_item"><a href="index.html">HOW IT WORKS</a></li>
+                                        <li class="current_page_item"><a href="https://ethereumcapital.github.io/account/">HOW IT WORKS</a></li>
                                         <li><a href="#">Account</a></li>
                                         <li><a href="https://ethereumcapital.tech/">Backup Link 1</a></li>
                                         <li><a href="https://ethereumgold.io/">Backup LInk 2</a></li>
@@ -238,7 +238,7 @@ border-top:0;
                 <div class="menu-ethereum-main-menu-container">
                     <ul class="navbar-nav site-mobile-menu">
                         <li class="nav-item current-menu-item">
-                            <a class="nav-link" href="#">HOW IT WORKS</a>
+                            <a class="nav-link" href="https://ethereumcapital.github.io/account/">HOW IT WORKS</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Account</a>
