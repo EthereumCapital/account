@@ -15,6 +15,12 @@
 .page-header{
 display:none!important;
 }
+@media screen and (min-width: 64em){
+.main-content {
+    max-width: none;
+    padding: 0;
+}
+}
         </style>
     </head>
     <body>
