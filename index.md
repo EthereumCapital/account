@@ -39,6 +39,10 @@ border-top:0;
 .site-footer-credits {
     color: #fff;
 }
+site-footer-credits {
+    display: inline-block;
+    color: #fff;
+}
         </style>
     </head>
     <body>
