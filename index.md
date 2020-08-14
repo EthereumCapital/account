@@ -12,6 +12,9 @@
         .markdown-body img{
         background-color: transparent!important;
 }
+.page-header{
+display:none!important;
+}
         </style>
     </head>
     <body>
