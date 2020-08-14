@@ -37,9 +37,6 @@ border-top:0;
     color: #fff;
 }
 .site-footer-credits {
-    color: #fff;
-}
-site-footer-credits {
     display: inline-block;
     color: #fff;
 }
