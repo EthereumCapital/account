@@ -15,6 +15,11 @@
 .page-header{
 display:none!important;
 }
+.site-footer{
+padding-top: 0;
+margin-top: 0;
+border-top:0;
+}
 @media screen and (min-width: 64em){
 .main-content {
     max-width: none;
