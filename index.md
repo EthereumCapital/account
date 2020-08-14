@@ -26,7 +26,7 @@ border-top:0;
     padding: 0;
 }
 }
-site-footer {
+.site-footer {
     text-align: center;
     font-size: 75%;
 }
