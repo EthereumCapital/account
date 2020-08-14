@@ -57,9 +57,9 @@ display:none!important;
                                 <a class="nav-link" href="https://discord.gg/2JYfAvm">Discord</a>
                             </li>
                         </ul>
-                        <div class="navbar-search">
+                        <!--<div class="navbar-search">
                             <a href="#"><i class="fa fa-search"></i></a>
-                        </div>
+                        </div>-->
                     </div>
                 </nav>
             </header>
