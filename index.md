@@ -26,6 +26,19 @@ border-top:0;
     padding: 0;
 }
 }
+site-footer {
+    text-align: center;
+    font-size: 75%;
+}
+
+.site-footer-owner {
+    display: inline-block;
+    font-weight: normal;
+    color: #fff;
+}
+.site-footer-credits {
+    color: #fff;
+}
         </style>
     </head>
     <body>
